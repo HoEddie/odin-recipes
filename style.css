@@ -1,0 +1,46 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    font-family: monospace, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.recipe-link{
+    color: black;
+    background-color: rgb(168, 164, 164);
+    font-size: 20px;
+    font-family: monospace, 'Times New Roman', Times, serif;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+    
+}
+
+h2 {
+    color: rgb(255, 13, 13);
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+#description {
+    text-align: center;
+}
+
+.list.ingredients {
+    color: gold;
+}
+
+.list#steps {
+    color: lightgreen;
+}
+
+ul li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
